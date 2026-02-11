@@ -61,7 +61,7 @@ Requests is ready for the demands of building robust and reliable HTTP–speakin
 
 When cloning the Requests repository, you may need to add the `-c
 fetch.fsck.badTimezone=ignore` flag to avoid an error about a bad commit timestamp (see
-[this issue](https://github.com/Unity-Billal-mesloub/requests/issues/2690) for more background):
+[this issue](https://github.com/Unity-Billal-mesloub/requests/issues) for more background):
 
 ```shell
 git clone -c fetch.fsck.badTimezone=ignore https://github.com/psf/requests.git
