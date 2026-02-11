@@ -19,7 +19,7 @@
 
 Requests allows you to send HTTP/1.1 requests extremely easily. There’s no need to manually add query strings to your URLs, or to form-encode your `PUT` & `POST` data — but nowadays, just use the `json` method!
 
-Requests is one of the most downloaded Python packages today, pulling in around `30M downloads / week`— according to GitHub, Requests is currently [depended upon](https://github.com/psf/requests/network/dependents?package_id=UGFja2FnZS01NzA4OTExNg%3D%3D) by `1,000,000+` repositories. You may certainly put your trust in this code.
+Requests is one of the most downloaded Python packages today, pulling in around `30M downloads / week`— according to GitHub, Requests is currently [depended upon](https://github.com/Unity-Billal-mesloub/requests/network/dependents?package_id=UGFja2FnZS01NzA4OTExNg%3D%3D) by `1,000,000+` repositories. You may certainly put your trust in this code.
 
 [![Downloads](https://static.pepy.tech/badge/requests/month)](https://pepy.tech/project/requests)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/requests.svg)](https://pypi.org/project/requests)
@@ -61,7 +61,7 @@ Requests is ready for the demands of building robust and reliable HTTP–speakin
 
 When cloning the Requests repository, you may need to add the `-c
 fetch.fsck.badTimezone=ignore` flag to avoid an error about a bad commit timestamp (see
-[this issue](https://github.com/psf/requests/issues/2690) for more background):
+[this issue](https://github.com/Unity-Billal-mesloub/requests/issues/2690) for more background):
 
 ```shell
 git clone -c fetch.fsck.badTimezone=ignore https://github.com/psf/requests.git
